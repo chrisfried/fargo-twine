@@ -12,7 +12,7 @@ p5
 (dp6
 sS'target'
 p7
-S'sugarcane'
+S'responsive'
 p8
 sS'storyPanel'
 p9
@@ -23,12 +23,12 @@ p11
 (dp13
 S'selected'
 p14
-I00
+I01
 sS'pos'
 p15
 (lp16
-I0
-aI0
+I25
+aI8
 asS'passage'
 p17
 (itiddlywiki
@@ -37,7 +37,7 @@ p18
 (dp20
 S'text'
 p21
-VSwanky Rooftop\u000aYou are on the rooftop of a swanky downtown hotel. You notice that everyone is dressed better than you and you have a feeling of disquiet as everyone talks about their careers, which are better than yours. Everyone is drinking something with either handmade vodka or bitters while you are drinking a Coors. Because your dad drank Coors and you grew up in a small town. A book with the title "Vortex Grimoire" and a small silver key are on the table in front of you. Exit is to the [[north|elevator]].
+V''Swanky Rooftop''\u000aYou are on the rooftop of a swanky downtown hotel. You notice that everyone is dressed better than you and you have a feeling of disquiet as everyone talks about their careers, which are better than yours. Everyone is drinking something with either handmade vodka or bitters while you are drinking a Coors. Because your dad drank Coors and you grew up in a small town. A book with the title "Vortex Grimoire" and a small silver key are on the table in front of you. Exit is to the [[north|elevator]].
 p22
 sS'title'
 p23
@@ -52,8 +52,8 @@ p26
 I6
 I17
 I22
-I33
 I37
+I32
 I1
 I168
 I1
@@ -86,7 +86,7 @@ I00
 sg15
 (lp39
 I25
-aI142
+aI153
 asg17
 (itiddlywiki
 Tiddler
@@ -119,11 +119,11 @@ sg33
 g47
 sbsa(dp49
 g14
-I01
+I00
 sg15
 (lp50
-I156
-aI4
+I186
+aI2
 asg17
 (itiddlywiki
 Tiddler
